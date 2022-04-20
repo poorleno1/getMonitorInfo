@@ -3,11 +3,7 @@
 
 Preparing an environment:
 
-choco install mingw -y
-choco install winlibs -y
-choco install msys2 -y
-choco install vscode -y
-choco install git -y
+choco install mingw,winlibs,msys2,vscode,git -y
 
 
 Compiling with static libraries:
